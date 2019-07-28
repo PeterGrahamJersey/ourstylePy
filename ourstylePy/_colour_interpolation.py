@@ -42,7 +42,7 @@ def _linear_gradient(start_hex, finish_hex="#FFFFFF", n=10):
     hex_list = [_lab_to_hex(LabColor(lab[0], lab[1], lab[2])) for lab in lab_list]
     return hex_list
 
-def polylinear_gradient(colors, n):
+def _polylinear_gradient(colors, n):
   ''' returns a list of colors forming linear gradients between
       all sequential pairs of colors. "n" specifies the total
       number of desired output colors '''

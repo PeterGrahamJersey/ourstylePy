@@ -7,10 +7,14 @@ our_colours_raw = {
     'yellow':'#f8c555',
     'blue':'#67cdcc',
     'orange':'#f08d49',
-    'grey':'#999999'
+    'grey':'#999999',
+    # Utility Colours
+    'grid':'#d9d9d9',
+    'grid1':'#bfbfbf',
+    'text':'#808080'
 }
 
-our_palettes_raw <- {
+our_palettes_raw = {
     # Colour names should match names from `our_colours_raw`
     # 'default' is used as the default in our functions, so don't change the
     # name unless you're updating this throughout!

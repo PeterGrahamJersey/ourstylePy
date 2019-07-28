@@ -10,8 +10,8 @@ Functions:
 * ✅ Palettes
 * 🛠️ Colour interpolation
 * Palette interpolation
-* Plot Colour Scales
-* Plot Themes
+* Plotly Colour Scales
+* 🛠 Plotly Theme
 
 Documentation
 
